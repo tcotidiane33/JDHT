@@ -6,9 +6,9 @@ Value for key1 after Node1 removal: null : Après avoir supprimé le nœud "Node
 
 Value for key2 after Node1 removal: null : De manière similaire à la troisième interprétation, la valeur associée à la clé "key2" est également introuvable après la suppression du nœud "Node1". Comme pour la clé précédente, cela est indiqué par "null".
 
-![img_4.png](img_4.png)
+![img_4.png](../test/img_4.png)
 
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![img.png](../test/img.png)
+![img_1.png](../test/img_1.png)
+![img_2.png](../test/img_2.png)
+![img_3.png](../test/img_3.png)
